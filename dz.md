@@ -39,6 +39,12 @@
      git branch branch_name
 
 **git branch branch_name** - команда которая позволяет создать новую ветку
-     git branch
+
+    git branch
 
 **git branch** - команда которая позволяет посмотреть все ветки, которые есть
+
+    git branch -d branch_name
+
+**git branch -d branch_name** - команда позволяет осуществить удаление ненужной ветки
+
