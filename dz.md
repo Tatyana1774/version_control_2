@@ -48,3 +48,6 @@
 
 **git branch -d branch_name** - команда позволяет осуществить удаление ненужной ветки
 
+    git merge branch_name
+
+**git merge branch_name** - команда которая позволяет осуществить слияние веток с главной веткой **master**
