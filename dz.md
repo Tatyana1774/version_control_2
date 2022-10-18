@@ -36,4 +36,6 @@
 
  ![che](che.jpeg)
 
- 
+     git branch branch_name
+
+**git branch branch_name** - команда которая позволяет создать новую ветку
