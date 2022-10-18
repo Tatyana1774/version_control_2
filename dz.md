@@ -39,3 +39,6 @@
      git branch branch_name
 
 **git branch branch_name** - команда которая позволяет создать новую ветку
+     git branch
+
+**git branch** - команда которая позволяет посмотреть все ветки, которые есть
